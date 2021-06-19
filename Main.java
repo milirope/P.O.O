@@ -140,7 +140,7 @@ package Greenhouse;
 			p11.setspore("Yes");
 				
 				
-				Plant p12= new Plant();
+			Plant p12= new Plant();
 			p12.settype("Briofitas (musgos)");
 			p12.setname("Zygodon menziessii");
 			p12.setcolor("Green");
@@ -150,7 +150,7 @@ package Greenhouse;
 			p12.setspore("Yes");
 
 				
-				Plant p13= new Plant();
+			Plant p13= new Plant();
 			p13.settype("Pteridofitos (helechos)");
 			p13.setname("Asplenium nidus");
 			p13.setcolor("Green");
@@ -160,7 +160,7 @@ package Greenhouse;
 			p13.setspore("Yes");
 
 
-				Plant p14= new Plant();
+			Plant p14= new Plant();
 			p14.settype("Pteridofitos (helechos)");
 			p14.setname("Blechnum gibbum");
 			p14.setcolor("Green");
@@ -170,7 +170,7 @@ package Greenhouse;
 			p14.setspore("Yes");
 
 				
-				Plant p15= new Plant();
+			Plant p15= new Plant();
 			p15.settype("Pteridofitos (helechos)");
 			p15.setname("Cyrtomium falcatum");
 			p15.setcolor("Green");
@@ -180,7 +180,7 @@ package Greenhouse;
 			p15.setspore("Yes");
 
 				
-				Plant p16= new Plant();
+			Plant p16= new Plant();
 			p16.settype("Pteridofitos (helechos)");
 			p16.setname("Selaginella willdenowii");
 			p16.setcolor("Green");
