@@ -69,7 +69,7 @@ Cuyo resultado sera :
             Fruta:No
             Esporas:No
 
-Como utilizar el invernadero?
+¿Como utilizar el invernadero?
 
 Simplemente hay que ingresar en la clase de java llamada “Main.java” y también podemos ingresar a la clase “Plant.java” para comenzar a cambiar o editar el código.
 
