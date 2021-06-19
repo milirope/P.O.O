@@ -13,7 +13,7 @@ En nuestro invernadero encontramos plantas de tipo:
 
 Gimnospermas que son : Cipreses, Araucaria,Sequoias y Tsuga.
 
-Angiospermas que son : Orquideaa, Lirios, Margaritas y Rosas.
+Angiospermas que son : Orquidea, Lirios, Margaritas y Rosas.
 
 Briofitas que son : Hylocomium splenders, Tortula muralis, Eriopus remotifolius y Zygodon menziesii.
 
